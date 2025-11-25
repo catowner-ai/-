@@ -1,0 +1,10 @@
+
+https://openml.org/search?type=data
+
+https://catalog.data.gov/dataset/
+
+https://vincentarelbundock.github.io/Rdatasets/articles/data.html
+
+https://archive.ics.uci.edu/
+
+https://www.kaggle.com/
